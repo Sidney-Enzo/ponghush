@@ -1,0 +1,17 @@
+{
+    "libaries": {
+        "camera": "libaries/camera",
+        "gamestate": "libaries/gamestate",
+        "suit": "libaries/suit",
+        "lip": "libaries/lip",
+        "lollipop": "libaries/lollipop"
+    },
+    "addons": [],
+    "states": {
+        "loadScreen": "source/states/loadScreen",
+        "mainMenu": "source/states/mainMenu",
+        "playstate": "source/states/playstate",
+        "credits": "source/states/credits"
+    },
+    "stateStart": "loadScreen"
+}

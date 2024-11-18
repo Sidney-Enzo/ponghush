@@ -1,0 +1,27 @@
+{
+    "images": [
+        ["shield", "assets/images/shield.png"],
+        ["enemyShield", "assets/images/enemyShield.png"],
+
+        ["castle", "assets/images/level1/castle.png"],
+        ["catapults", "assets/images/level1/catapult.png"],
+        ["fireball", "assets/images/level1/fireball.png"],
+        ["grass", "assets/images/level1/grass.png"],
+        ["level1Icon", "assets/images/level1/levelIcon.png"],
+
+        ["baseballGuy", "assets/images/level2/invisibleBaseballGuy.png"],
+        ["ball", "assets/images/level2/ball.png"],
+        ["level2Icon", "assets/images/level2/levelIcon.png"],
+
+        ["city", "assets/images/level3/city.png"],
+        ["ovn", "assets/images/level3/ovn.png"],
+        ["shot", "assets/images/level3/shot.png"],
+        ["level3Icon", "assets/images/level3/levelIcon.png"]
+    ],
+    "fonts": [
+        ["pongGame", "assets/fonts/pongGame.ttf", 32]
+    ],
+    "audios": [
+        ["pong", "assets/audios/pong.ogg", "static"]
+    ]
+}
