@@ -7,9 +7,10 @@ return {
     ignore = {
         "make.cmd",
         "build.lua",
-        "CHANGELOG"
+        "CHANGELOG",
+        ".gitignore"
     },
-    icon = "assets/images/icon.png",
+    icon = "icon.png",
     identifier = "com.foxStudio.pongHush", 
     libs = { 
         all = {"LICENSE"}
